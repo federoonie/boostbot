@@ -1,0 +1,11 @@
+{
+    "capmonsterKey": "yourcapmonsterkey",
+    "botToken": "bottoken",
+    "guildID": "serverID",
+    "botAdminId": [
+        "discordAdminID"
+    ],
+    "botWhitelistedId": [
+        "discordWhitelistedID"
+    ]
+}
